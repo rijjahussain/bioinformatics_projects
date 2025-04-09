@@ -1,0 +1,11 @@
+name: ngs_qc_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  - fastqc
+  - sra-tools
+  - multiqc
+  - pandas
+  - jupyterlab
