@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR2584863_1	/content/TrimGalore-master/TrimGalore-master/TrimGalore-master/fastqc_reports/SRR2584863_1_fastqc.zip
+FastQC	all_sections	SRR2584863_2	/content/TrimGalore-master/TrimGalore-master/TrimGalore-master/fastqc_reports/SRR2584863_2_fastqc.zip

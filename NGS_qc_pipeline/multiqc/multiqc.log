@@ -1,0 +1,3 @@
+[2025-04-16 10:44:20,753] multiqc.core.file_search                           [INFO   ]  Search path: /content/TrimGalore-master/TrimGalore-master/TrimGalore-master/fastqc_reports
+[2025-04-16 10:44:20,880] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 2 reports
+[2025-04-16 10:44:21,006] multiqc.plots.violin                               [WARNING]  Tried to make table/violin plot, but had no data. pconfig: {'namespace': 'FastQC', 'id': 'fastqc_top_overrepresented_sequences_table', 'title': 'FastQC: Top overrepresented sequences', 'col1_header': 'Overrepresented sequence', 'sort_rows': False}
